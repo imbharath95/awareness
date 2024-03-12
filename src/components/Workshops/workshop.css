@@ -1,0 +1,9 @@
+
+
+.main-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap : 15px 15px;
+    grid-template-rows: 200px 200px;
+    background-size: contain;
+}
